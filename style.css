@@ -1,0 +1,32 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h1{
+    text-align: center;
+}
+h1,h2{
+    color: #d75575;
+}
+h3{
+    font-style: italic; 
+    color: #cbc0c0;
+}
+h4{
+    text-decoration: underline;
+}
+p{
+    text-align: justify ; 
+    padding: 5px;
+}
+.definition {
+    background-color: chartreuse;
+}
+.sample{
+    background-color: lightpink;
+}
+.syntax{
+    background-color: cornflowerblue;
+}
+.warning{
+    background-color: lightcoral;
+}
